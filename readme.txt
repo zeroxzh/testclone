@@ -1,3 +1,3 @@
 # testclone
-dev branch
-fix bug success
+push whit param -u
+

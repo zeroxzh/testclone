@@ -1,3 +1,2 @@
 # testclone
-add dev
-test branch
+dev branch
